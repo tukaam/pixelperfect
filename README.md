@@ -55,9 +55,9 @@ A: We support JPG, PNG, WEBP, and SVG for most tools.
 ---
 ## Getting Started
 
- for local on machine running read LOCAL_DEVLOPMENT.md[https://github.com/tukaam/pixelperfect/blob/main/LOCAL_DEVELOPMENT.md]
+ for local on machine running read [LOCAL_DEVLOPMENT.md](https://github.com/tukaam/pixelperfect/blob/main/LOCAL_DEVELOPMENT.md)
 
- for Docker Deployement read DOCKER_DEPLOYEMENT.md[https://github.com/tukaam/pixelperfect/blob/main/DOCKER_DEPLOYMENT.md]
+ for Docker Deployement read [DOCKER_DEPLOYEMENT.md](https://github.com/tukaam/pixelperfect/blob/main/DOCKER_DEPLOYMENT.md)
 
 
 
