@@ -1,4 +1,4 @@
-# PixelPerfect Usage Guide
+# PixelPerfect Image Tools Guide 
 
 Welcome to **PixelPerfect**, your professional toolkit for image transformation. This guide will walk you through the core features and how to get the most out of our tools.
 
