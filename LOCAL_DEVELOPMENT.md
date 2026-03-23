@@ -21,7 +21,7 @@ Double-click the **`local.bat`** file in the root directory. This will:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/pixelperfect.git
+git clone https://github.com/tukaam/pixelperfect.git
 cd pixelperfect
 ```
 
